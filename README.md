@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @PaulLessard! I’m an interdisciplinary mathematician with deep expertise in pure mathematics, in particular:
+- 👋 Hi, I’m @PaulLessard! I’m an interdisciplinary mathematician with  a background in pure mathematics, in particular:
   
   - higher category theory,
   - type theory, and
   - homotopy theory.
-      
-  I’ve a specific focus on finding the most effective, computable, and communicable abstraction for the task at hand.
+ 
+  Since 2023 I've been working in machine learning, for example the position paper: [Categorical Deep Learning](https://categoricaldeeplearning.com/).
+
 
 - 📫 How to reach me
 
